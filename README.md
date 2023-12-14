@@ -105,8 +105,19 @@
     - A helper function that adds zeros to numbers.
     - Checking if a certain function exists before using it.
 
-//Summary on Function Basics https://javascript.info/function-basics
+    //Summary on Control Flow Statement https://www.javascripthelp.org/learn/basics/control-flow-statements/
+**Control flow statement**
 
+1. **If/Else Statements**: They help your code make decisions based on conditions. For example, if something is true, do one thing, otherwise do another.
+
+2. **Switch Statements**: These are like multiple choices. Your code picks different actions based on the value of a variable.
+
+3. **Loops**: They're used to repeat tasks:
+   - **For Loops**: Repeat something for a specific number of times.
+   - **While Loops**: Keep doing something as long as a condition is true.
+   - **Do...While Loops**: Similar to while loops, but they execute the code first and then check the condition.
+
+//Summary on Function Basics https://javascript.info/function-basics
 **Function Basics**
 
 1. **Creating a Function**:
@@ -122,8 +133,4 @@ Now, imagine you're flexible about the ingredients. Sometimes you might want to 
 And after following the steps (executing the function), you have your finished Jollof rice!
 
 - **Return Values** could be something like how tasty the rice is or maybe the quantity you've made. It's what you get back after using those instructions.
-
-
-
-
 
